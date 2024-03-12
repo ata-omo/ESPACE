@@ -6,3 +6,6 @@
     font-family: 'logoCustomFont';
     src: url('./assets/appfont.ttf') format('truetype');
 }
+*{
+    @apply transition-colors duration-100;
+}

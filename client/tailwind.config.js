@@ -4,9 +4,10 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+  darkMode:"class",
   theme: {
     extend: {
-      backgroundColor:{
+      colors:{
         'customBlack': '#33332D',
         'customWhite': '#FFFFFF',
 
